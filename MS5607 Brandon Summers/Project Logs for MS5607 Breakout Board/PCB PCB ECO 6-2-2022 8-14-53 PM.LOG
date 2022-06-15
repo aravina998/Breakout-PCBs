@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=BPS CSN Pin=P-6
+Change Net Name : Old Net Name=BPS CSN New Net Name=CS

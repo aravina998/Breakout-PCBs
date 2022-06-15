@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=BPS? NewDesignator=MS5607
+Change Component Designator: OldDesignator=C? NewDesignator=C
+Change Component Designator: OldDesignator=P? NewDesignator=P
+Change Component Designator: OldDesignator=R? NewDesignator=R
+Added Pin To Net: NetName=3.3V Pin=P-1
+Added Pin To Net: NetName=GND Pin=P-2
+Added Pin To Net: NetName=SCLK Pin=P-3
+Added Pin To Net: NetName=MOSI Pin=P-4
+Added Pin To Net: NetName=MISO Pin=P-5
+Added Pin To Net: NetName=CS Pin=P-6
+Added Net: Name=CS
