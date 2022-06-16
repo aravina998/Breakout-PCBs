@@ -1,0 +1,75 @@
+Added Component: Designator=ACCEL(FP-KX134-1211-MFG)
+Added Component: Designator=C1(CAPC1608X95X40NL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603A101KXBCW1BC"; VariantName = "[No Variations]"
+Added Component: Designator=PINS(HDR1X9)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(FP-CRCW0603-e3-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CRCW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.033inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 V Pin=ACCEL-3
+Added Pin To Net: NetName=3.3 V Pin=ACCEL-7
+Added Pin To Net: NetName=3.3 V Pin=C1-1
+Added Pin To Net: NetName=3.3 V Pin=R1-1
+Added Net: Name=3.3 V
+Added Pin To Net: NetName=3.3V Pin=PINS-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=CS Pin=ACCEL-10
+Added Pin To Net: NetName=CS Pin=PINS-2
+Added Pin To Net: NetName=CS Pin=R1-2
+Added Net: Name=CS
+Added Pin To Net: NetName=GND Pin=ACCEL-8
+Added Pin To Net: NetName=GND Pin=ACCEL-9
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=PINS-8
+Added Net: Name=GND
+Added Pin To Net: NetName=INT1 Pin=ACCEL-5
+Added Pin To Net: NetName=INT1 Pin=PINS-6
+Added Net: Name=INT1
+Added Pin To Net: NetName=INT2 Pin=ACCEL-6
+Added Pin To Net: NetName=INT2 Pin=PINS-7
+Added Net: Name=INT2
+Added Pin To Net: NetName=SCLK Pin=ACCEL-12
+Added Pin To Net: NetName=SCLK Pin=PINS-9
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SDI Pin=ACCEL-2
+Added Pin To Net: NetName=SDI Pin=PINS-3
+Added Net: Name=SDI
+Added Pin To Net: NetName=SDO Pin=ACCEL-1
+Added Pin To Net: NetName=SDO Pin=PINS-5
+Added Net: Name=SDO
+Added Pin To Net: NetName=TRIG Pin=ACCEL-4
+Added Pin To Net: NetName=TRIG Pin=PINS-4
+Added Net: Name=TRIG
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

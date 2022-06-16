@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SCLK Pin=PINS-3
+Removed Pin From Net: NetName=GND Pin=PINS-9
+Added Pin To Net: NetName=GND Pin=PINS-3
+Added Pin To Net: NetName=SCLK Pin=PINS-9

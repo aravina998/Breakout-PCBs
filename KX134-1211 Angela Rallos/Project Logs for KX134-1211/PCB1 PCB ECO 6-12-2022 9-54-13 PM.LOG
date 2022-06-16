@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SDI Pin=PINS-3
+Removed Pin From Net: NetName=TRIG Pin=PINS-4
+Removed Pin From Net: NetName=SDO Pin=PINS-5
+Added Pin To Net: NetName=SDO Pin=PINS-3
+Added Pin To Net: NetName=SDI Pin=PINS-4
+Added Pin To Net: NetName=TRIG Pin=PINS-5

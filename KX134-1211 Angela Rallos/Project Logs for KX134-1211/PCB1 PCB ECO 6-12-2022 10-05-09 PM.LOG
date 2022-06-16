@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SOURCE Pin=PINS-1
+Removed Pin From Net: NetName=SCLK Pin=PINS-9
+Added Pin To Net: NetName=SCLK Pin=PINS-1
+Added Pin To Net: NetName=SOURCE Pin=PINS-9
+Added Member To Class: ClassName=Sheet1 Member=Component ACCEL KX134-1211
